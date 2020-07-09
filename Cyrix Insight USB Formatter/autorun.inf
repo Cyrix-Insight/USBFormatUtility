@@ -1,7 +1,0 @@
-[autorun]
-label = USB Format Utility
-open = autorun.exe [open][1] "Install Cyrix Insight.msi"
-icon = autorun.exe
-
-[Installed]
-ProductCode = {913EEE98-0EB1-491D-9F44-99D6B1764E84}
